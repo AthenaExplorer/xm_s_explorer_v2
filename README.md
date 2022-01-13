@@ -48,4 +48,5 @@
 包含DataCap数据看板、DataCap数量与分布和趋势数据情况，助力行业生态关注获取真实存储数据信息。
 <img width="936" alt="DataCap" src="https://user-images.githubusercontent.com/85341169/140471393-30e8980b-058a-4b6b-adc4-e7a1540983b1.png">
 
-
+# License
+MIT
